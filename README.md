@@ -18,7 +18,7 @@ Command:
 
 Where:
 
-`<query>` is the the query to search for.
+`<query>` is the the query to search for. Using plus '+' symbol if have space
 
 `<number of images>` min(`<number of images>`, total google results) will be downloaded.
 
