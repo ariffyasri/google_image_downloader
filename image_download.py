@@ -7,6 +7,8 @@ import sys
 import time
 
 # adding path to geckodriver to the OS environment variable
+print os.pathsep
+print os.getcwd()
 os.environ["PATH"] += os.pathsep + os.getcwd()
 download_path = "dataset/"
 
